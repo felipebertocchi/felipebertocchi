@@ -1,7 +1,7 @@
-- 👋 Hi, My name is Felipe Bertocchi, I'm a 25 year-old guy from Argentina.
+- 👋 Hi, My name is Felipe Bertocchi, I'm a 25 year-old programmer from Argentina.
 - ✈  Currently Studying Aeronautical Engineering at UTN FRH.
 - 👀 I’m interested in making apps and programs, mainly to solve problems.
-- 🌱 I’m currently learning Full-Stack Python and WebDev.
+- 🌱 I’m currently learning Full-Stack Python and DevOps.
 - 💞️ I’m looking to collaborate on projects that have an impact on aviation development.
 - 📫 You can reach me to my email: fabertocchi@gmail.com
 
