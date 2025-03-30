@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Felipe</h1>
 <h3>I'm a software developer with hands-on experience in building and deploying scalable web applications, mainly with the MERN stack. I am also an Aeronautical Engineer graduated from the UTN in Argentina. I'm always on the lookout for new challenges and opportunities that allow me to grow as a professional. In addition, I constantly take courses on platforms such as Udemy, Coursera and EducaciónIT, to enhance my skillset and keep up with the latest technologies.</h3>
 
-<img align="right" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2020/07/5-qualities-of-high-performing-software-engineers.png"/>
-
 - 🔭 I’m currently working on **backend projects**
 
 - 🌱 I’m currently learning **.NET & Entity Framework**
